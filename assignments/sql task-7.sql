@@ -1,20 +1,19 @@
 SQL QUERIES 
  
-1) Display the details of all employees 
+---1) Display the details of all employees 
 
-SQL:  select * from employee
+ select * from employee
 
-2) Display the depart information from department table 
-
-SQL: select * from department
+--2) Display the depart information from department table 
+ select * from department
  
-3) Display the name and job for all the employees 
+--3) Display the name and job for all the employees 
 
-SQL: select name , job from employees
+ select name , job from employees
  
-4) Display the name and salary  for all the employees 
+--4) Display the name and salary  for all the employees 
  
-5) Display the employee no and totalsalary  for all the employees 
+--5) Display the employee no and totalsalary  for all the employees 
  
 6) Display the employee name and annual salary for all employees. 
  
